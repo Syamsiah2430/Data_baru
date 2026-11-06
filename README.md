@@ -13,3 +13,4 @@ Aplikasi web sederhana menggunakan HTML, CSS, dan JavaScript murni untuk mencata
 - **Hapus Tugas**: Klik tombol X merah untuk menghapus tugas.
 - **Penyimpanan Lokal**: Data otomatis tersimpan di Local Storage browser, sehingga tidak akan hilang walaupun browser ditutup (kecuali riwayat cache dibersihkan).
 "# Aplikasi_Catatan" 
+"# Aplikasi_Catatan" 
