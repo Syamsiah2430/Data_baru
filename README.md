@@ -22,3 +22,4 @@ Aplikasi web sederhana menggunakan HTML, CSS, dan JavaScript murni untuk mencata
 "# Aplikasi_Catatan3" 
 "# LatRPL" 
 "# LatRPL" 
+"# bagus" 
